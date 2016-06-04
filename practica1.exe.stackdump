@@ -1,0 +1,6 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=611606AB
+eax=00000004 ebx=C0000000 ecx=40000000 edx=00000001 esi=00289398 edi=00288EB0
+ebp=00000004 esp=00287960 program=C:\Users\Ferhammaren\Desktop\Daigaku\nanagakki\Tecnologías Electric Boogaloo\Prácticas\Practica1\dist\Debug\Cygwin_4.x-Windows\practica1.exe, pid 2092, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
